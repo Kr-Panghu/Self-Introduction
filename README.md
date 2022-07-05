@@ -14,6 +14,10 @@
 
 [School] **Shanghai Jiao Tong University**
 
+[College] **Zhiyuan College**
+
+[Major] **Computer Science and Technology**
+
 [Faiths] **There are three as follows:**
 
 * **Live for myself, no worry about gains and losses. Stay positive, be brave, and keep my original intention.**
